@@ -37,7 +37,7 @@ The project was designed to practice and demonstrate core **OOP principles**, in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AthosExarchou/java-entertainment.git
+   git clone https://github.com/AthosExarchou/Java-Entertainment.git
    cd Java-Entertainment
    ```
 2. Open the project in your preferred IDE (e.g., IntelliJ, Eclipse, NetBeans).
