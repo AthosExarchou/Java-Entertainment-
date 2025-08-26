@@ -33,6 +33,18 @@ The project was designed to practice and demonstrate core **OOP principles**, in
   - Search actors/directors by name
   - See ratings, average scores, and favorite contributors
 
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AthosExarchou/java-entertainment.git
+   cd Java-Entertainment
+   ```
+2. Open the project in your preferred IDE (e.g., IntelliJ, Eclipse, NetBeans).
+3. Compile the source files (most IDEs do this automatically).
+4. Run the Main class (usually by pressing the Run button).
+5. Follow the console prompts to interact with the application.
+
 ## Example of Use
 
 ```java
